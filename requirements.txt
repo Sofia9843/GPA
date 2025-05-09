@@ -1,5 +1,4 @@
 pandas
-streamlit
-pickle
 numpy
-plotly.express
+plotly
+scikit-learn
